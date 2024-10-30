@@ -1,0 +1,33 @@
+body {
+    font-family: 'Open Sans', sans-serif; 
+    margin: 0;
+    background-color: #fff; /* White background */
+    color: #333; /* Dark gray text color */
+}
+
+header {
+    background-color: #c00; /* Red header */
+    color: #fff; /* White header text */
+    padding: 1em 0;
+    text-align: center;
+}
+
+.hero { /* Hero section styles */
+    background-color: #f0f0f0; /* Light gray background */
+    text-align: center;
+    padding: 2em 0;
+}
+
+.hero h1 {
+    color: #c00; /* Red heading */
+}
+
+.btn { /* Button styles */
+    background-color: #007bff; /* Blue button */
+    color: #fff;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+/* Add more styles for other sections, typography, etc. */
